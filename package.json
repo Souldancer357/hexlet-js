@@ -1,0 +1,15 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Project for studying",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Artem P.",
+    "email": "piskanov.av@gmail.com",
+  },
+  "license": "ISC"
+}
