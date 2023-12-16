@@ -9,7 +9,10 @@
   },
   "author": {
     "name": "Artem P.",
-    "email": "piskanov.av@gmail.com",
+    "email": "piskanov.av@gmail.com"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
